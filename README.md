@@ -1,4 +1,5 @@
 # midtermquestion2
+20190701031 Cem Deniz Erdogan
 
 Proje repository'sini push yapmayı denedim ancak beceremedim. O yüzden projeyi ilk koydugum repository'nin linkini buradaki project
 kısmında belirttim (project'teki link doğrudur).
